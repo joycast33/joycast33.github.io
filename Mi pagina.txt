@@ -1,0 +1,32 @@
+<html>
+
+<title> Mipagina </title>
+
+<body bgcolor= "green">
+
+<h1><marquee> Nallely Jocelyn Castellanos Morales</marque><h1>
+
+
+<h2>Esta es mi página<h2>
+
+<p> F11462 Contador Publico 2do Tetra </p>
+
+<br>
+</br>
+
+<center><img src="D:\perritos.webp"></img><center>
+
+<br>
+</br>
+
+<video src="D:\WhatsApp Video 2023-12-03 at 16.59.06.mp4" width="640" heigth"360" controls>
+</video>
+
+<br>
+</br>
+
+<audio src="D:\WhatsApp Audio 2023-11-29 at 16.08.29.mpeg" preload="none"controls>
+
+
+</body>
+</html>
